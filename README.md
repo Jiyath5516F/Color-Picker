@@ -29,7 +29,7 @@ Grab the latest `ColorPicker.exe` from [Releases](../../releases).
 
 ## Build from source
 
-**Requirements:** Visual Studio 2019 or later with the C++ Desktop workload, Python 3.
+**Requirements:** Visual Studio 2019 or later with the C++ Desktop workload.
 
 ```bat
 build.bat
